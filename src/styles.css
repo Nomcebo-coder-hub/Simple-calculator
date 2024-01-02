@@ -15,7 +15,7 @@
 }
 
 .calculator {
-  background: #3a4452;
+  background: #26272c;
   padding: 20px;
   border-radius: 10px;
 }
@@ -46,12 +46,4 @@ form .display input {
   flex: 1;
   font-size: 45px;
   box-shadow: none;
-}
-
-.equal {
-  width: 145px;
-}
-
-.operator {
-  color: #33ffd8;
 }
